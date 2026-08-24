@@ -1,0 +1,29 @@
+name: modern_ui
+description: "Flutter library for the Microsoft's `Modern UI` design language."
+
+homepage: https://softyes.com.br
+repository: https://github.com/softyesti/modern_ui
+issue_tracker: https://github.com/softyesti/modern_ui/issues
+
+platforms:
+  android:
+
+version: 0.1.0
+
+environment:
+  sdk: ^3.13.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  very_good_analysis: ^10.3.0
+
+flutter:
+  uses-material-design: false
