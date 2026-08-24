@@ -27,3 +27,64 @@ dev_dependencies:
 
 flutter:
   uses-material-design: false
+
+  assets:
+    - assets/fonts/
+
+  fonts:
+    - family: NotoSans
+      fonts:
+        - asset: assets/fonts/static/NotoSans-Thin.ttf
+          weight: 100
+          style: normal
+        - asset: assets/fonts/static/NotoSans-ExtraLight.ttf
+          weight: 200
+          style: normal
+        - asset: assets/fonts/static/NotoSans-Light.ttf
+          weight: 300
+          style: normal
+        - asset: assets/fonts/static/NotoSans-Regular.ttf
+          weight: 400
+          style: normal
+        - asset: assets/fonts/static/NotoSans-Medium.ttf
+          weight: 500
+          style: normal
+        - asset: assets/fonts/static/NotoSans-SemiBold.ttf
+          weight: 600
+          style: normal
+        - asset: assets/fonts/static/NotoSans-Bold.ttf
+          weight: 700
+          style: normal
+        - asset: assets/fonts/static/NotoSans-ExtraBold.ttf
+          weight: 800
+          style: normal
+        - asset: assets/fonts/static/NotoSans-Black.ttf
+          weight: 900
+          style: normal
+        - asset: assets/fonts/static/NotoSans-ThinItalic.ttf
+          weight: 100
+          style: italic
+        - asset: assets/fonts/static/NotoSans-ExtraLightItalic.ttf
+          weight: 200
+          style: italic
+        - asset: assets/fonts/static/NotoSans-LightItalic.ttf
+          weight: 300
+          style: italic
+        - asset: assets/fonts/static/NotoSans-Italic.ttf
+          weight: 400
+          style: italic
+        - asset: assets/fonts/static/NotoSans-MediumItalic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/static/NotoSans-SemiBoldItalic.ttf
+          weight: 600
+          style: italic
+        - asset: assets/fonts/static/NotoSans-BoldItalic.ttf
+          weight: 700
+          style: italic
+        - asset: assets/fonts/static/NotoSans-ExtraBoldItalic.ttf
+          weight: 800
+          style: italic
+        - asset: assets/fonts/static/NotoSans-BlackItalic.ttf
+          weight: 900
+          style: italic
